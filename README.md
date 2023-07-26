@@ -30,7 +30,9 @@ print(len(a))
 ```
 ### OUTPUT:
 ![out](/pd.png)
+
 ![out](/pc.png)
+
 ![out](/pa.png)
 
 ## RESULT:
